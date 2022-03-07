@@ -1,4 +1,4 @@
-# add-reviews-product-EXPRESS
+# post reviews/question/Command EXPRESS
 creat this assignment using html bootstrap api express javascript,this work use to add review or questions for any products company by adding user name and the item that the user want to add review or question about further question/comment field,
 the system will store these users information using file json() updated these information using POST Request and display it on the page immediately,and after the user refresh the page i used GET Request method to display all stored information and display it on the page,
 this app section so useful and important to evaluate and product or to post any question about 
