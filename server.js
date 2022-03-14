@@ -4,7 +4,7 @@ const uuid=require('./helpers/uuid');
 const data=require('./db/reviews')
 const path=require('path')
 const app=express();
-const saveddata=require('../try add comment/db/reviews.json')
+const saveddata=require('./db/reviews.json')
 const fs=require('fs');
 const writeToFile = (destination, content) =>
   fs.writeFile(destination, JSON.stringify(content, null, 4), (err) =>
